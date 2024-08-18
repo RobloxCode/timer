@@ -1,0 +1,80 @@
+body{
+  font-family: Arial;
+  background-color: rgb(64, 63, 63);
+}
+
+.container-for-password-generator{
+  margin-left: 470px;
+  background-color: white;
+  width: 620px;
+  border-radius: 10px;
+}
+
+.container-for-fr{
+  margin-left: 20px;
+}
+
+.title{
+  padding: 20px 0px 20px 0px;
+  margin: 20px 0px 0px 130px;
+}
+
+.option-container{
+  display: flex;
+  align-items: center;
+}
+
+.select-thing{
+  height: 20px;
+  margin-left: 20px;
+}
+
+.passwords-container{
+  width: 700px;
+  height: 200px;
+}
+
+.text-1,.text-2,.text-3,.text-4,.text-5{
+  color: green;
+}
+
+.copy-button{
+  margin-left: 20px;  
+}
+
+.inlcude-capital-letters-container,
+.inlcude-numbers-container,
+.inlcude-symbols-container{
+  display: flex;
+}
+
+.description{
+  margin-left: 12px;
+}
+
+.checkbox-capital-letters,
+.checkbox-include-numbers,
+.checkbox-include-symbols{
+  width: 15px;
+}
+
+.container-for-password{
+  width: 500px;
+}
+
+.testing-container{
+  display: flex;
+}
+
+.container-for-buttons{
+  display: flex;
+  flex-direction: column;
+  margin-left: 0px;
+}
+
+.copy-button{
+  margin-top: 17px;
+  margin-bottom: -5px;
+  width: 55px;
+}
+
